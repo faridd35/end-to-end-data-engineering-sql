@@ -1,3 +1,13 @@
+/*
+Load Data From CSV Files into bronze layer tables in databases
+- Truncate tables before extract
+- Use BULK INSERT
+- Show Load Duration Messages for each extract tables and batch procedure
+
+Usage Procedure in new query:
+	EXEC bronze.load_bronze;
+*/
+
 create or alter procedure bronze.load_bronze as
 BEGIN
 	Declare @start_time datetime, @end_time datetime, @batch_start_time datetime, @batch_end_time datetime;
