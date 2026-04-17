@@ -1,5 +1,5 @@
 /*
-DDL Script: Create Bronze Tables
+DDL Script: Create Silver Tables
 Dropping existing tables if they already exist -> Create tables 
 */
 
