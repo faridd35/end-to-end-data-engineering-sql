@@ -1,3 +1,9 @@
+/*
+DDL Script: Create Bronze Tables
+Dropping existing tables if they already exist -> Create tables 
+*/
+
+
 IF OBJECT_ID ('bronze.crm_cust_info', 'U') IS NOT NULL
 	DROP TABLE bronze.crm_cust_info;
 GO
