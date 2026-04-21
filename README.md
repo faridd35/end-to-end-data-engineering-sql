@@ -13,9 +13,9 @@ This project impelemnts the **Medallion Architecture** with three progressive la
 
 |Layer|Description|
 |-----|-----------|
-| 🥉 **Bronze** | Raw data ingested as-is from source CSV files (CRM & ERP). No transformations applied. |
-| 🥈 **Silver** | Cleaned, standardized, and normalized data. Handles deduplication, type casting, null handling, and column normalization. |
-| 🥇 **Gold** | Business-ready data modeled into a **Star Schema** — dimension and fact tables optimized for analytics and BI reporting. |
+| 🥉**Bronze** | Raw data ingested as-is from source CSV files (CRM & ERP). No transformations applied. |
+| 🥈**Silver** | Cleaned, standardized, and normalized data. Handles deduplication, type casting, null handling, and column normalization. |
+| 🥇**Gold** | Business-ready data modeled into a **Star Schema** — dimension and fact tables optimized for analytics and BI reporting. |
 
 ---
 
