@@ -86,6 +86,14 @@ end-to-end-data-engineering-sql/
 └── README.md
 ```
 
+## 🚀 What's Next
+ 
+The Gold layer of this warehouse serves as the data source for a follow-up analytics project:
+ 
+**[📊 SQL Data Analytics & BI Dashboard →](https://github.com/faridd35/sql-data-analytics-project)**
+Exploratory analysis, customer segmentation, product performance, and an interactive Power BI dashboard — all built directly on top of the Gold layer views from this warehouse.
+```
+
 ## 🙏 Credits
  
 This project follows the tutorial **"SQL Data Warehouse Project from Scratch"** by [Data With Baraa](https://www.youtube.com/@datawithbaraa).  
