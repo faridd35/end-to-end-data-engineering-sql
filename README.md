@@ -90,7 +90,7 @@ end-to-end-data-engineering-sql/
  
 The Gold layer of this warehouse serves as the data source for a follow-up analytics project:
  
-**[📊 SQL Data Analytics & BI Dashboard →](https://github.com/faridd35/sql-data-analytics-project)**
+**[📊 SQL Data Analytics & BI Dashboard →](https://github.com/faridd35/sql-data-analytics-dashboard-project)**
 Exploratory analysis, customer segmentation, product performance, and an interactive Power BI dashboard — all built directly on top of the Gold layer views from this warehouse.
 ```
 
