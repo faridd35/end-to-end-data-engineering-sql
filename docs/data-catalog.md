@@ -66,6 +66,6 @@ The Gold layer is the final, analytics-optimized layer of the Medallion Architec
 |order_date|DATE|Date the order was placed|
 |shipping_date|DATE|Date the order was shipped|
 |due_date|DATE|Expected delivery date|
-|sales_amoung|INT|Total revenue for the line item|
+|sales_amount|INT|Total revenue for the line item|
 |quantity|INT|Number of units ordered|
 |price|INT|Unit price at time of sale|
